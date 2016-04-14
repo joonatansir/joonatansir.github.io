@@ -17,8 +17,6 @@ joonatan.sorensen@gmail.com
 * Unity 3D
 * Git
 * Javascript
-* HTML
-* CSS
 
 ## Experience
 
