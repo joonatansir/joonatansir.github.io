@@ -48,5 +48,5 @@ Local multiplayer ufo racing game.
 
 ## Education
 
-#### **Bachelor of Engineering in Information Technology at Kajaani University of Applied Sciences**  
+#### **Bachelor of Engineering in Information Technology at [Kajaani University of Applied Sciences](http://kamk.fi/en)**  
 **September 2012 to present**  
