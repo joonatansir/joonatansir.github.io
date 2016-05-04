@@ -14,9 +14,9 @@ joonatan.sorensen@gmail.com
 
 * C++
 * C#
+* Unity 3D
+* Git
 * Javascript
-* HTML
-* CSS
 
 ## Experience
 
@@ -48,5 +48,5 @@ Local multiplayer ufo racing game.
 
 ## Education
 
-#### **Bachelor of Engineering in Information Technology at Kajaani University of Applied Sciences**  
+#### **Bachelor of Engineering in Information Technology at [Kajaani University of Applied Sciences](http://kamk.fi/en)**  
 **September 2012 to present**  
