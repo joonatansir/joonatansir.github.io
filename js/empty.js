@@ -68,7 +68,7 @@ function render(time)
     gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
 
     model = mat4.create();
-    mat4.translate(model, model, vec3.fromValues(0, 0.3, -3));
+    mat4.translate(model, model, vec3.fromValues(0, 0.35, -2.6));
     mat4.mul(model, model, mat4.rotate(mat4.create(), mat4.create(), time/1000, vec3.fromValues(0, 1, 0)));
     mat4.mul(model, model, mat4.scale(mat4.create(), mat4.create(), vec3.fromValues(1, 1, 1)));
 
@@ -83,7 +83,7 @@ function render(time)
     gl.vertexAttribPointer(colorLoc, 3, gl.FLOAT, false, 6*Float32Array.BYTES_PER_ELEMENT, 3*Float32Array.BYTES_PER_ELEMENT);
 
     gl.drawElements(gl.LINE_LOOP, 12, gl.UNSIGNED_BYTE, 0);
-    //gl.drawArrays(gl.TRIANGLES, 0, 3);
+    //gl.drawArrays(gl.TRIANGLES, 0, 4);
 
     window.requestAnimationFrame(render);
 }

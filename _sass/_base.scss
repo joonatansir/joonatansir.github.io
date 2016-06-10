@@ -45,9 +45,8 @@ ul, ol, dl, figure, img,
 img {
     max-width: 100%;
     vertical-align: middle;
+    margin-bottom: 0;
 }
-
-
 
 /**
  * Figures
@@ -86,7 +85,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
-
+h3, h4, h5, h6 {
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    font-weight: $base-font-weight;
+    font-variant: small-caps;
+}
 
 /**
  * Links
@@ -101,7 +104,6 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
     }
 }
 
