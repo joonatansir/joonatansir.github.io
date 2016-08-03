@@ -146,6 +146,12 @@
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
+.project-block {
+    h3, h4, h5 {
+        margin-bottom: 0;
+    }
+}
+
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {

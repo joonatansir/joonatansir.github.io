@@ -13,14 +13,15 @@ joonatan.sorensen@gmail.com
 ## Skills
 
 * C++
+* OpenGL, GLSL
 * C#
-* Unity 3D
-* Git
 * Javascript
+* Unity 3D
+* Git, SVN
 
 ## Experience
 
-#### **Programmer (Intern) at [Team Jolly Roger](http://www.teamjollyroger.com/)**  
+#### **Programmer (intern) at [Team Jolly Roger](http://www.teamjollyroger.com/)**  
 **September 2015 to February 2016**  
 
 ## Projects
@@ -50,3 +51,8 @@ Local multiplayer ufo racing game.
 
 #### **Bachelor of Engineering in Information Technology at [Kajaani University of Applied Sciences](http://kamk.fi/en)**  
 **September 2012 to present**  
+
+## Other
+
+#### **volunteer organizer for [nucl.ai](https://nucl.ai/)**  
+**July 2016**
