@@ -12,12 +12,12 @@ joonatan.sorensen@gmail.com
 
 ## Skills
 
-* C++
-* OpenGL, GLSL
 * C#
+* C++
 * Javascript
 * Unity 3D
 * Git, SVN
+* OpenGL, GLSL
 
 ## Experience
 
@@ -32,7 +32,7 @@ joonatan.sorensen@gmail.com
 
 Arcade mobile game.  
 
-* Lead programmer
+* Lead programmer on a team of 2 programmers
 * Wrote all the gameplay code, including character and camera movements, physics with Box2D, audio implementation and a bunch of other game mechanics.
 * Designed and implemented various visual effects with OpenGL and GLSL.
 * Managed the android build process.
