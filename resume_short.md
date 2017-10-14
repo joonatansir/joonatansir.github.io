@@ -15,6 +15,7 @@ joonatan.sorensen@gmail.com
 * C#
 * Unity 3D
 * C++
+* Scala
 * OpenGL, GLSL
 * Javascript
 * Git, SVN
