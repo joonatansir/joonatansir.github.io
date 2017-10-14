@@ -8,7 +8,7 @@ joonatan.sorensen@gmail.com
 
 [joonatan.fi](http://joonatan.fi)  
 [github.com/joonatansir](http://github.com/joonatansir)  
-[twitter.com/joonatantan](http://twitter.com/joonatansir)  
+[twitter.com/joonatantan](http://twitter.com/joonatantan)  
 
 ## Skills
 
