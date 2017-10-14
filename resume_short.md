@@ -21,7 +21,7 @@ joonatan.sorensen@gmail.com
 
 ## Experience
 
-#### **Software Developer at [Small Giant Games](hhttp://www.smallgiantgames.com/)**  
+#### **Software Developer at [Small Giant Games](http://www.smallgiantgames.com/)**  
 **April 2017 to present**  
 
 #### **Programmer (intern) at [Team Jolly Roger](http://www.teamjollyroger.com/)**  
