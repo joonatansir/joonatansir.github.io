@@ -2,4 +2,5 @@
 layout: blank
 ---
 
-Privacy Policy
+## Privacy Policy
+No personally identifiable information is collected.
